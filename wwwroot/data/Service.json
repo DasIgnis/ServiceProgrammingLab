@@ -1,0 +1,22 @@
+[
+  {
+    "ImageUrl": "uploads/service_01.jpg",
+    "Name": "Smart Swatch Editions",
+    "Description": "Aliquam sagittis ligula et sem lacinia, ut facilisis enim sollicitudin. Proin nisi est, convallis nec purus vitae, iaculis posuere sapien. Cum sociis natoque."
+  },
+  {
+    "ImageUrl": "uploads/service_02.jpg",
+    "Name": "Web UI Kit Design",
+    "Description": "Duis at tellus at dui tincidunt scelerisque nec sed felis. Suspendisse id dolor sed leo rutrum euismod. Nullam vestibulum fermentum erat. It nam auctor. "
+  },
+  {
+    "ImageUrl": "uploads/service_03.jpg",
+    "Name": "Mobile Optimization",
+    "Description": "Etiam materials ut mollis tellus, vel posuere nulla. Etiam sit amet lacus vitae massa sodales aliquam at eget quam. Integer ultricies et magna quis accumsan."
+  },
+  {
+    "ImageUrl": "uploads/service_04.jpg",
+    "Name": "Digital Design for Mac",
+    "Description": "Praesent in neque congue sapien lobortis faucibus id eget erat. <br>Pellentesque maximus rutrum felis. Interdum et malesuada fames ac ante ipsum primis in faucibus."
+  }
+]

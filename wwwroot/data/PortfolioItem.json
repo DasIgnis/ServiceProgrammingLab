@@ -1,0 +1,62 @@
+[
+  {
+    "imageUrl": "uploads/portfolio_01.jpg",
+    "name": "Seahorse by Trevor",
+    "type": "Web Design",
+    "filter":  "cat1"
+  },
+  {
+    "imageUrl": "uploads/portfolio_02.jpg",
+    "name": "Tradested Mockop",
+    "type": "Graphic Design",
+    "filter": "cat2"
+  },
+  {
+    "imageUrl": "uploads/portfolio_03.jpg",
+    "name": "Photography Material",
+    "type": "Photography",
+    "filter": "cat1"
+  },
+  {
+    "imageUrl": "uploads/portfolio_04.jpg",
+    "name": "Responsive Menu",
+    "type": "UI Design",
+    "filter": "cat4"
+  },
+  {
+    "imageUrl": "uploads/portfolio_05.jpg",
+    "name": "SnowMaker App",
+    "type": "Application",
+    "filter": "cat3"
+  },
+  {
+    "imageUrl": "uploads/portfolio_06.jpg",
+    "name": "3D Mockups",
+    "type": "Graphic Design",
+    "filter": "cat2"
+  },
+  {
+    "imageUrl": "uploads/portfolio_07.jpg",
+    "name": "Best of Design",
+    "type": "Web Design",
+    "filter": "cat1"
+  },
+  {
+    "imageUrl": "uploads/portfolio_08.jpg",
+    "name": "Admin Dashboard",
+    "type": "Admin Template",
+    "filter": "cat4"
+  },
+  {
+    "imageUrl": "uploads/portfolio_09.jpg",
+    "name": "Radio Mockup",
+    "type": "Graphic Design",
+    "filter": "cat3"
+  },
+  {
+    "imageUrl": "uploads/portfolio_10.jpg",
+    "name": "Danny Jeffers",
+    "type": "Web Design",
+    "filter": "cat2"
+  }
+]
